@@ -1,0 +1,8 @@
+    Height             Weight              Age            Grip_strength     
+ Length:9           Length:9           Length:9           Length:9          
+ Class :character   Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character   Mode  :character  
+   Frailty         
+ Length:9          
+ Class :character  
+ Mode  :character  
